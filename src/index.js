@@ -6,11 +6,6 @@ import 'tachyons'
 import './index.css';
 import App from './containers/App'
 
-
-
-
-
-
 ReactDOM.render(
   <React.StrictMode>
   <>
